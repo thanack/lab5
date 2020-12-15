@@ -18,7 +18,10 @@ int main()
         }
         else
         {
-            odd++;
+            if(num!=0)
+            {
+              odd++;
+            }
         }
 
     }
